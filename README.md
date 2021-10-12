@@ -22,3 +22,6 @@ python3 honk.py gentoken [phone number]
 
 ### Dependencies ###
 The script requires the **requests** library. Tested on version 2.25.1
+
+### Disclaimer ###
+Use at your own risk. This tool has only been tested in Malta and it contains hard coded values related to the country. There is no guarantee it will work since the API can change anytime.
