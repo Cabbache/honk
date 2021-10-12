@@ -8,7 +8,7 @@ import random
 
 def usage():
 	print("""Ring bolt scooters from python
-Author: Cabbache
+Author: https://github.com/Cabbache
 
 Usage: python3 honk.py [command] [args]
 
